@@ -1,5 +1,5 @@
 # react-todo
-```yaml
+```json
 {
 	"requests": 
 	[
