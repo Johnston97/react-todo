@@ -1,5 +1,5 @@
 # react-todo
-```json
+```JSONasPerl
 {
 	"requests": 
 	[
